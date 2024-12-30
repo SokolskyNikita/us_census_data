@@ -1,0 +1,1 @@
+Sourced from [US Census data](https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-detail.html) for 2023. See `Annual County Resident Population Estimates ... (CC-EST2023-ALLDATA)`. Click on the `File Layout` link to see the column descriptions.
